@@ -1,6 +1,4 @@
-/** @const {ShadowJS} */ var ArrayBuffer;
 /** @const {ShadowJS} */ var AudioContext;
-/** @const {ShadowJS} */ var FileReader;
 /** @const {ShadowJS} */ var setInterval;
 ShadowJS.prototype.$$typeof;
 ShadowJS.prototype.Alt;
