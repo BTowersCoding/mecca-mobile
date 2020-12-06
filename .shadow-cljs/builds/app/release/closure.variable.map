@@ -31,9 +31,9 @@ G__58288_58368:Kt
 G__58290_58370:Lt
 G__58292_58373:Mt
 G__58294_58375:Nt
-G__58984_58988:Qt
-G__58985_58989:Du
-G__58987_58990:Eu
+G__60380_60384:Ck
+G__60381_60385:pl
+G__60382_60386:Qt
 JSCompiler_StaticMethods_assoc_BANG_:Ch
 JSCompiler_StaticMethods_cljs$core$ITransientVector$_assoc_n_BANG_$arity$3:Gg
 JSCompiler_StaticMethods_cljs$core$async$impl$channels$MMC$abort$arity$1:Hs
@@ -556,7 +556,6 @@ cljs$cst$keyword$continue_DASH_block:im
 cljs$cst$keyword$ctrlKey:Am
 cljs$cst$keyword$current_DASH_note:pj
 cljs$cst$keyword$current_DASH_position:dk
-cljs$cst$keyword$cursor:pl
 cljs$cst$keyword$d:Kj
 cljs$cst$keyword$db:cm
 cljs$cst$keyword$db_DASH_handler:Ak
@@ -720,7 +719,6 @@ cljs$cst$keyword$stroke_DASH_dashoffset:dm
 cljs$cst$keyword$stroke_DASH_linecap:Wl
 cljs$cst$keyword$stroke_DASH_linejoin:Bl
 cljs$cst$keyword$stroke_DASH_width:Vi
-cljs$cst$keyword$style:Ck
 cljs$cst$keyword$sub:Xl
 cljs$cst$keyword$submit_DASH_xml:zj
 cljs$cst$keyword$svg:em
