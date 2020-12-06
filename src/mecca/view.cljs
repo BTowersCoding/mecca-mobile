@@ -136,7 +136,7 @@
         (dispatch [:jump-reset]))
       [:svg {:width "100%"
              :view-box "0 0 36 36"
-             :style {:cursor "url(/images/hand.png),pointer"}}
+             :style {:cursor "url(/mecca-mobile/public/images/hand.png),pointer"}}
        [mario/cloud 1 18]
        [mario/hill 40]
        [castle/brick-face 170 18 6]

@@ -360,7 +360,7 @@
 
 (defn toolbar [x y]
   [:svg {:view-box "0 -0.5 70 10.5" :shape-rendering "crispEdges"
-         :style {:cursor "url(/images/hand.png),pointer"}}
+         :style {:cursor "url(/mecca-mobile/public/images/hand.png),pointer"}}
    [:rect {:x x :y y :width 68 :height 10 :stroke "black" :stroke-width 0.2 :fill "#f8b0f8"}]
    [undo-dog 0.5 (+ 0.5 y) 0.5]
    [redo-rabbit 4 (+ 0.48 y) 0.45]
